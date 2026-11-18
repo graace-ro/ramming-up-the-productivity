@@ -19,7 +19,7 @@ Check off, add, and delete tasks from a list.
 - **Purpose:** Helps users see what's done and what's left.
 
 ### 3. Leaderboard
-A productivity leaderboard against other users, based on average tasks completed per hour.
+A productivity leaderboard against other users, based on average tasks completed per hour. Determined by friend requests.
 
 - **User:** A student who wants to compete with friends.
 - **Purpose:** Adds friendly competition to studying for motivation.
